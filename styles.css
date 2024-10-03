@@ -1,7 +1,7 @@
 /* Estilos generales */
 body {
     font-family: 'Arial', sans-serif;
-    background-image: url('/img/fondo.jpg'); /* Asegúrate de que la ruta sea correcta */
+    background-image: url('img/fondo.jpg'); /* Asegúrate de que la ruta sea correcta */
     background-repeat: repeat; /* Permite que la imagen se repita */
     background-size: auto; /* Mantiene el tamaño original de la imagen */
     background-position: center; /* Centra la imagen */
